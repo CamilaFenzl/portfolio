@@ -9,7 +9,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@upleveled/eslint-config-upleveled": "^4.0.10",
     "local-cypress": "1.2.6",
     "next": "13.3.0",
     "react": "18.2.0",
